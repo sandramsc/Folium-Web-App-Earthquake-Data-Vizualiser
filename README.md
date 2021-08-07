@@ -15,3 +15,8 @@ The higher level technologies used are:
  ## Relevant links
 
    [Earthquake data from USGS-past day](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson)
+   
+   
+  ## Sample Example
+   ![example_earthquake_vizualisation](https://user-images.githubusercontent.com/19821445/128603248-4218e60a-35b9-4ba7-8948-1f87de49d03e.JPG)
+
