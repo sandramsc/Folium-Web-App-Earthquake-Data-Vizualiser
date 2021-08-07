@@ -11,10 +11,11 @@ The higher level technologies used are:
     Conda for package management
     Git for version control
     VScode as the IDE
+    Windows 10.0 OS
     
  ## Relevant links
 
-   [Earthquake data from USGS-past day](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson)
+   [Earthquake data set from USGS-past day](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson)
    
    
   ## Sample Example
