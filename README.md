@@ -10,6 +10,7 @@ The higher level technologies used are:
 
     Conda for package management
     Git for version control
+    Mozila Firefox browser
     VScode as the IDE
     Windows 10.0 OS
     
@@ -17,6 +18,8 @@ The higher level technologies used are:
 
    [Earthquake data set from USGS-past day](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson)
    
+## Vizualising the map on loacal machine
+- After cloning the git repository navigate to the Map1.html file to open the file in your browser to renin browser
    
   ## Sample Example
    ![example_earthquake_vizualisation](https://user-images.githubusercontent.com/19821445/128603248-4218e60a-35b9-4ba7-8948-1f87de49d03e.JPG)
