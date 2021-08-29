@@ -19,7 +19,7 @@ The higher level technologies used are:
    [Earthquake data set from USGS-past day](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson)
    
 ## Vizualising the map on loacal machine
-- After cloning the git repository navigate to the Map1.html file to open the file in your browser to renin browser
+- After cloning the git repository navigate to the Map1.html file to open the file in your browser 
 - The Map1.html containsthe Leaflet.js/JavaScript dependencies required to display the map
 
    
