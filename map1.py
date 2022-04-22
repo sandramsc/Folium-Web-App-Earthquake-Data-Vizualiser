@@ -1,3 +1,4 @@
+# Designed & coded by Sandra Ashipala <https://github.com/sandramsc> 
 import folium
 import pandas as pd
 
